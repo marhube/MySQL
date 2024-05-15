@@ -1,0 +1,17 @@
+ipython
+typing
+pandas
+pandas-stubs
+pyarrow
+sqlalchemy
+python-decouple-typed
+python-dotenv
+mypy
+JayDeBeApi
+JPype1
+mysql-connector-python
+pymysql
+types-PyMySQL
+cryptography
+mysqlclient
+types-mysqlclient

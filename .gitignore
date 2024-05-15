@@ -1,0 +1,7 @@
+  GNU nano 6.2                                                           .gitignore                                                                    
+#Enviroment
+mysql_env
+mysql_env/
+teknisk_kode.txt
+#Old code
+old*/

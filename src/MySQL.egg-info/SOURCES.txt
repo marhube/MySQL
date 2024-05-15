@@ -1,0 +1,10 @@
+pyproject.toml
+src/MySQL/MySQL_Connect.py
+src/MySQL/__init__.py
+src/MySQL/py.typed
+src/MySQL.egg-info/PKG-INFO
+src/MySQL.egg-info/SOURCES.txt
+src/MySQL.egg-info/dependency_links.txt
+src/MySQL.egg-info/requires.txt
+src/MySQL.egg-info/top_level.txt
+tests/test_MySQL_Connect.py

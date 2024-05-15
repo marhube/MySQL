@@ -1,0 +1,14 @@
+pandas
+pyarrow
+mysql-connector-python
+pymysql
+types-PyMySQL
+cryptography
+mysqlclient
+types-mysqlclient
+sqlalchemy
+python-decouple-typed
+mypy
+JayDeBeApi
+JPype1
+Datatype@ file:///home/m01315/General_Python/Packages/Datatype

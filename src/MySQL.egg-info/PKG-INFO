@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: MySQL
+Version: 0.1.0
+Summary: A package for connecting to and working with an Postgres database.
+Author-email: Martin Hunting <martin.hunting@hotmail.com>
+License: MIT License
+Project-URL: Homepage, https://github.com/yourusername/my_package
+Project-URL: Documentation, https://yourusername.github.io/my_package
+Project-URL: Source, https://github.com/yourusername/my_package
+Project-URL: Tracker, https://github.com/yourusername/my_package/issues
+Requires-Python: >=3.10
+Requires-Dist: pandas
+Requires-Dist: pyarrow
+Requires-Dist: mysql-connector-python
+Requires-Dist: pymysql
+Requires-Dist: types-PyMySQL
+Requires-Dist: cryptography
+Requires-Dist: mysqlclient
+Requires-Dist: types-mysqlclient
+Requires-Dist: sqlalchemy
+Requires-Dist: python-decouple-typed
+Requires-Dist: mypy
+Requires-Dist: JayDeBeApi
+Requires-Dist: JPype1
+Requires-Dist: Datatype@ file:///home/m01315/General_Python/Packages/Datatype
